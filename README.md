@@ -1,6 +1,6 @@
 # Learn Online
 
-I've had quite a few people ask me for advice on how to get start learning Computer Science or improving thier current skill-set. So I put together a collection of high quality resources for learning these skills online. Now I can just send them a link to: https://github.com/daniellmb/learn-online. Does this list miss something awesome? Send a pull request to improve it! The links are alphabetized with preference given to HTTPS.
+I've had quite a few people ask me for advice on how to get started learning Computer Science or improving thier current skill-set. So I put together a collection of high-quality resources for learning online. Now I can just send them a link to: https://github.com/daniellmb/learn-online. Does this list miss something awesome? Send a pull request to improve it! The links are alphabetized with preference given to HTTPS.
 
 ## Course Providers
 
