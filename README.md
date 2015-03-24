@@ -36,6 +36,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - http://oli.cmu.edu
   - http://online.stanford.edu
   - http://shop.oreilly.com/category/videos.do
+  - http://uopeople.edu
   - http://www.codecademy.com
   - http://www.lynda.com
   - http://www.menaversity.com
