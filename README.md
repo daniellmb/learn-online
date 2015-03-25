@@ -6,6 +6,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
 
   - https://class.stanford.edu
   - https://code.org
+  - https://compilr.com
   - https://egghead.io
   - https://frontendmasters.com
   - https://iversity.org
