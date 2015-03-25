@@ -36,6 +36,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - https://www.wiziq.com
   - http://academicearth.org
   - http://coderbyte.com
+  - http://learn.koding.com
   - http://mruniversity.com
   - http://ocw.mit.edu
   - http://oli.cmu.edu
