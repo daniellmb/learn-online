@@ -3,9 +3,9 @@
 I've had quite a few people ask me for advice on learning Computer Science, or how to improve their current skill-set. So I put together this collection of high-quality resources for learning online. Does this list miss something awesome? Send a pull request to improve it! The links are alphabetized with preference given to HTTPS.
 
 ## Course Providers
-
   - https://class.stanford.edu
   - https://code.org
+  - https://egghead.io
   - https://iversity.org
   - https://novoed.com
   - https://onemonth.com
@@ -31,6 +31,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - https://www.upex.edu.ec
   - https://www.wiziq.com
   - http://academicearth.org
+  - http://coderbyte.com
   - http://mruniversity.com
   - http://ocw.mit.edu
   - http://oli.cmu.edu
