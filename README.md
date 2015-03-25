@@ -7,6 +7,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - https://class.stanford.edu
   - https://code.org
   - https://egghead.io
+  - https://frontendmasters.com
   - https://iversity.org
   - https://novoed.com
   - https://onemonth.com
@@ -45,6 +46,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - http://www.lynda.com
   - http://www.menaversity.com
   - http://www.open.edu/openlearn
+  - http://www.oreillyschool.com
   - http://www.rwaq.org
   - http://www.saylor.org
   - http://www.straighterline.com
