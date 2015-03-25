@@ -76,6 +76,8 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
 
   - http://addyosmani.com/resources/essentialjsdesignpatterns/book
   - http://eloquentjavascript.net
+  - http://htdp.org
+  - http://jqfundamentals.com
   - http://jsbooks.revolunet.com
 
 Does this list miss something awesome? Send a pull request to improve it! The links are alphabetized with preference given to HTTPS.
