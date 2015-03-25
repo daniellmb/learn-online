@@ -72,4 +72,10 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - http://www.moocs.co
   - http://www.skilledup.com
 
+## Free Books
+
+  - http://addyosmani.com/resources/essentialjsdesignpatterns/book
+  - http://eloquentjavascript.net
+  - http://jsbooks.revolunet.com
+
 Does this list miss something awesome? Send a pull request to improve it! The links are alphabetized with preference given to HTTPS.
