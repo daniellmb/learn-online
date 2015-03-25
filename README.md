@@ -59,6 +59,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
 
   - https://www.airpair.com
   - https://www.codementor.io
+  - https://www.thinkful.com
   - http://www.railsmentors.org
 
 ## Find Courses
