@@ -14,10 +14,10 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - https://ooac.org
   - https://open.edx.org
   - https://open.sap.com
-  - https://p2pu.org
   - https://petrolessons.com
   - https://rubymonk.com
   - https://scratch.mit.edu
+  - https://training.webmakerprototypes.org
   - https://upcase.com
   - https://www.apple.com/education/ipad/itunes-u
   - https://www.canvas.net
@@ -60,6 +60,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
 
 ## Find Courses
 
+  - https://p2pu.org
   - https://www.class-central.com
   - https://www.coursebuffet.com
   - http://coursehorse.com
