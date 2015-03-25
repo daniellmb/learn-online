@@ -49,6 +49,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - http://www.menaversity.com
   - http://www.open.edu/openlearn
   - http://www.oreillyschool.com
+  - http://www.pluralsight.com
   - http://www.rwaq.org
   - http://www.saylor.org
   - http://www.straighterline.com
