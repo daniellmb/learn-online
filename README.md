@@ -1,6 +1,6 @@
 # Learn Online
 
-I've had quite a few people ask me for advice on learning Computer Science, or how to improve their current skill-set. So I put together this collection of high-quality resources for learning online. Does this list miss something awesome? Send a pull request to improve it! The links are alphabetized with preference given to HTTPS.
+I've had quite a few people ask me for advice on learning Computer Science, or how to improve their current skill-set. So I put together this collection of high-quality resources for learning online.
 
 ## Course Providers
 
@@ -70,3 +70,5 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - http://www.coursetalk.com
   - http://www.moocs.co
   - http://www.skilledup.com
+
+Does this list miss something awesome? Send a pull request to improve it! The links are alphabetized with preference given to HTTPS.
