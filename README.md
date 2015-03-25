@@ -17,6 +17,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - https://petrolessons.com
   - https://rubymonk.com
   - https://scratch.mit.edu
+  - https://upcase.com
   - https://www.apple.com/education/ipad/itunes-u
   - https://www.canvas.net
   - https://www.codeschool.com
