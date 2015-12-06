@@ -10,6 +10,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - https://egghead.io
   - https://frontendmasters.com
   - https://iversity.org
+  - https://learn.modern-developer.com
   - https://novoed.com
   - https://onemonth.com
   - https://ooac.org
