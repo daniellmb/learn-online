@@ -4,6 +4,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
 
 ## Course Providers
 
+
   - https://class.stanford.edu
   - https://code.org
   - https://compilr.com
@@ -31,6 +32,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - https://www.khanacademy.org
   - https://www.miriadax.net
   - https://www.openlearning.com
+  - https://www.oreilly.com/learning
   - https://www.udacity.com
   - https://www.udemy.com
   - https://www.upex.edu.ec
@@ -42,7 +44,6 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - http://ocw.mit.edu
   - http://oli.cmu.edu
   - http://online.stanford.edu
-  - http://shop.oreilly.com/category/videos.do
   - http://teamtreehouse.com
   - http://uopeople.edu
   - http://www.codecademy.com
