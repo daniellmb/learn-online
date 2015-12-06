@@ -4,7 +4,6 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
 
 ## Course Providers
 
-
   - https://class.stanford.edu
   - https://code.org
   - https://egghead.io
@@ -83,11 +82,11 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - http://jqfundamentals.com
   - http://jsbooks.revolunet.com
 
+Does this list miss something awesome? Send a pull request to improve it! The links are alphabetized with preference given to HTTPS.
+
 ## Closed
 
  Nothing lasts forever, if you find that one of these sites has shutdown, please submit an issue or pull request to keep this list as relivent as possible over time.
 
   - https://compilr.com
   - http://www.oreillyschool.com
-
-Does this list miss something awesome? Send a pull request to improve it! The links are alphabetized with preference given to HTTPS.
