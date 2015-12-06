@@ -45,7 +45,6 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - http://teamtreehouse.com
   - http://uopeople.edu
   - http://www.codecademy.com
-  - http://www.digitaltutors.com
   - http://www.infiniteskills.com
   - http://www.lynda.com
   - http://www.menaversity.com
