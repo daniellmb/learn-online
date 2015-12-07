@@ -85,7 +85,7 @@ Does this list miss something awesome? Send a pull request to improve it! The li
 
 ## Closed
 
- Nothing lasts forever, if you find that one of these sites has shutdown, please submit an issue or pull request to keep this list as relivent as possible over time.
+ Nothing lasts forever, if you find that one of the web sites above has shutdown, please submit an issue or pull request to keep this list as relivent as possible over time.
 
   - https://compilr.com
   - http://www.oreillyschool.com
