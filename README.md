@@ -4,12 +4,14 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
 
 ## Course Providers
 
+
   - https://class.stanford.edu
   - https://code.org
   - https://egghead.io
   - https://frontendmasters.com
   - https://iversity.org
-  - https://learn.modern-developer.com
+  - https://learn.js.org
+  - https://moderndeveloper.com
   - https://novoed.com
   - https://onemonth.com
   - https://ooac.org
