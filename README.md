@@ -56,6 +56,7 @@ I've had quite a few people ask me for advice on learning Computer Science, or h
   - http://www.saylor.org
   - http://www.straighterline.com
   - http://www.thegreatcourses.com
+  - https://edabit.com
 
 ## Mentoring
 
